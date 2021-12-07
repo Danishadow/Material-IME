@@ -1,0 +1,14 @@
+¿qué variables se han cargado?
+R: Regiones, cantidad de contagiados con sintomas, fecha
+
+¿qué tipo tiene cada una de estas variables?
+R:
+	Region: categorica nominal
+	Cantidad de contagiados con sintomas: numerica discreta
+	Fecha: categorica ordinal
+
+¿qué escala parecen tener estas variables?
+R:
+	Region: escala nominal
+	Cantidad de contagiados con sintomas: escala de razon
+	Fecha: escala ordinal o de rangos 
